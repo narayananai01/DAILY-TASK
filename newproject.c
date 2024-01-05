@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int newproject()
 {
     
     for (int n = 0; n < 5; n++)
